@@ -17,7 +17,7 @@ When I'm not programming or writing, I'm halfway decent at Smash 4. There's a ch
 
 ### Contact me
 
-[ryan.l.stark@gmail.com](mailto:ryan.l.stark@gmail.com)
+[ryan.l.stark@gmail.com](mailto:ryan.l.stark@gmail.com) | 
 [rstark13@umd.edu](mailto:rstark13@umd.edu)
 
 

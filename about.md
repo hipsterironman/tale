@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-![alt text](/assets/github pic for site.png "Ryan Stark")
+![alt text](assets/github pic for site.png "Ryan Stark")
 
 [Check out my resume.](../Resume.pdf)
 

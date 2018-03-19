@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-![alt text](https://avatars3.githubusercontent.com/u/25832153?s=400&u=57b5bce0ee0f178081ce144e8df23b5eb1aac740&v=4 "Ryan Stark")
+![alt text](hipsterironman.github.io/assets/github pic for site.png "Ryan Stark")
 
 [Check out my resume.](../Resume.pdf)
 

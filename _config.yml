@@ -1,7 +1,6 @@
 # Site settings
 title:          Ryan Stark
 description:    "Sophomore CS Student @ UMD"
-baseurl:        "/tale"
 url:            "https://hipsterironman.github.io"
 
 # Author

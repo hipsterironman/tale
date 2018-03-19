@@ -6,7 +6,7 @@ permalink: /about/
 
 ![alt text](../sitepic.png "Ryan Stark")
 
-
+----
 
 Hey there. Ryan here. Honors sophomore CS student at the University of Maryland, College Park. I program primarily in Java and C, though I have working knowledge of some HTML and CSS and mess around with Javascript and Python every now and then. I have burgeoning interests in app development, particularly Android, and in web development.
 
